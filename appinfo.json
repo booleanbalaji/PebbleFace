@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "abhishek.balaji2@gmail.com",
+    "longName": "WatchFace",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "WatchFace",
+    "uuid": "58b5dc40-ba54-4c86-8eeb-ead8c76dcfdb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
